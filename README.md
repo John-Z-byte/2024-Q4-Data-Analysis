@@ -28,6 +28,32 @@ Consider exploring more robust partnerships with Medicare and providing flexible
 ![image](https://github.com/user-attachments/assets/20dfe2b3-2ea6-4718-a0db-216f6ec8ea09)
 
 
+**Distribution Insights**
+
+Leads Tier Distribution:
+TIER 1: 1401 leads
+TIER 3: 891 leads
+TIER 2: 577 leads
+Sales Tier Distribution:
+TIER 1: 5343 sales
+TIER 3: 1676 sales
+TIER 2: 1610 sales
+
+![image](https://github.com/user-attachments/assets/25920db6-06a8-405d-9b68-4feffd1fc54a)
+
+**Key Insights:**
+TIER 1 leads both in leads and sales, with a high conversion rate (3.82 sales per lead).
+
+Insight: This tier likely represents individuals with better insurance coverage, leading to higher conversion rates.
+TIER 3 has fewer leads but a decent conversion rate (1.88 sales per lead).
+
+Insight: This tier likely represents individuals with more complex insurance coverage or higher out-of-pocket costs, requiring more effort to convert leads.
+TIER 2 has a moderate conversion rate (2.79 sales per lead).
+
+Insight: This tier likely includes individuals with average insurance coverage, showing decent sales conversion despite fewer leads.
+
+**TIER 1** dominates in both leads and sales, while TIER 2 and TIER 3 have room for improvement in conversion rates.
+Focus on addressing barriers to conversion in TIER 3 and TIER 2, such as out-of-pocket costs or insurance complexities.
 
 
 
