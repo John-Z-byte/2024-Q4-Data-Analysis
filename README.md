@@ -56,6 +56,21 @@ Insight: This tier likely includes individuals with average insurance coverage, 
 Focus on addressing barriers to conversion in TIER 3 and TIER 2, such as out-of-pocket costs or insurance complexities.
 
 
+**Average Patient Responsibility by TIER:**
+
+![image](https://github.com/user-attachments/assets/495be5e4-e728-495f-9e92-9331cb0cfb08)
+
+Key Insights:
+TIER 1 has the lowest financial responsibility, both for leads and sales, indicating better insurance or lower out-of-pocket costs.
+TIER 2 shows a high decrease in responsibility from leads to sales, suggesting financial barriers prevent some leads from converting.
+TIER 3 has the highest responsibility for leads, but lower for sales, likely due to financial assistance or coverage after conversion.
+
+**Key Takeaways & Recommendations:**
+Focus on older demographics (61+) for Sleep Apnea testing, as they show strong conversion rates, but consider increasing awareness and education for younger groups.
+BCBS is a reliable source, but there is potential for Self Pay and Medicare to contribute more to sales. Consider exploring partnerships or financial support for these groups.
+TIER 1 should continue to be prioritized due to its high conversion rate, but more effort is needed to reduce financial barriers in TIER 2 and TIER 3 to increase conversions.
+Offering financial assistance programs or flexible payment options, especially for TIER 3, could significantly improve conversions from high-value leads.
+
 
 
 
